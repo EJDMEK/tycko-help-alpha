@@ -1,1 +1,0 @@
-# tycko-help-alpha
